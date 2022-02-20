@@ -23,11 +23,8 @@ Mention the path of the website in urls.py.
 
 ### Step 5:
 
-Publish the website in the given URL.
+Publish the website in the given URL. http://aakash2003.student.saveetha.in/
 
-### Step 6:
-
-Publish the website in the given URL.
 
 ## PROGRAM :
 ### Area.html :
